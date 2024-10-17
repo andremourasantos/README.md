@@ -8,13 +8,11 @@ Trabalho principalmente com o Marketing B2B (empresa-para-empresa). Tenho conhec
 
 Além de aprender rápido, tenho carinho pelo que faço, muita curiosidade, perseverança, consigo encontrar soluções por conta e consigo apresentar minha linha de pensamento de maneira clara e documentá-la bem. Gosto de trabalho em equipe, cooperação, de me envolver em novos projetos e um ambiente de trabalho transparente.
 
-Sou nativo brasileiro, falo inglês ao nível profissional (C2), arranho no francês (A1) e estou aprendendo japonês (<L5).
+Sou nativo brasileiro, falo inglês ao nível profissional (C2) e estou aprendendo japonês (<N5).
 
-> EN: I'm a native Brazilian, speaking English at a professional level (C2), French in a beginner level (A1), and I'm currently learning Japanese (<L5).
+> EN: I'm a native Brazilian, I speak English at a professional level (C2) and I'm currently learning Japanese (<N5).
 
-> FR: Je suis brésilien natif, je parle anglais à un niveau professionnel (C2), je me débrouille en français (A1) et j'apprends le japonais (<L5).
-
-> JP: 私はブラジル人です。英語はプロフェッショナルレベル(C2)で話せます。フランス語は初心者(A1)で、日本語を勉強しています (<L5)。
+> JP: 私はブラジル人です。英語はプロフェッショナルレベル(C2)で話せます。日本語を勉強しています (<N5)。
 
 ## Habilidades 🎯
 Tenho conhecimentos em HTML5, CSS3, JavaScript (ES6), Apps Script, JSON e REST API, além de JavaScript frameworks como Vue 3 e supersets como TypeScript e Nuxt 3. Utilizo o Google Cloud Platform (GCP) em alguns de meus projetos, via Firebase (JS SDK v9). Também possuo conhecimentos básicos sobre Node.js, Webpack, Vite e SQL, além de Git e GitHub.
